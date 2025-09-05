@@ -1,0 +1,20 @@
+/* Mobile view */
+@media (max-width: 768px) {
+  .parag2 {
+    flex-direction: column;
+    text-align: center;
+    margin: 2rem 0;
+  }
+
+  .parag2 img {
+    margin: 0 auto;
+    max-width: 80%;
+  }
+
+  .icons {
+    flex-direction: column;
+    gap: 3rem;
+    align-items: center;
+    text-align: center;
+  }
+}
