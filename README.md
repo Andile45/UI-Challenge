@@ -207,6 +207,8 @@ This project is private and for educational purposes.
 
 ## 👤 Author
 
+Andile Manganye
+
 Built as part of a UI challenge to demonstrate responsive design and React/TypeScript skills.
 
 ---
